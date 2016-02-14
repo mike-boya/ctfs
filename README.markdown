@@ -1,4 +1,4 @@
-#CTFS
+# CTFS
 
 This repo was put together to track some cool challenges and CTFs. It is not meant to be an exhaustive list, just a place to store what I've found.
 
@@ -7,17 +7,20 @@ For a larger list with clearly organized sections please check out [amanhardikar
 As I work through these challenges I will post solutions / answers on my [blog] (http://mike-boya.github.io/).
 
 ## Miscellaneous
-* [CounterHack Challenges] (http://www.counterhack.net/Counter_Hack/Challenges.html)
-* [Exploit-Exercises] ( https://exploit-exercises.com/)
-* [HoneyNet Challenges] (https://www.honeynet.org/challenges)
+* [Counter Hack Challenges] (http://www.counterhack.net/Counter_Hack/Challenges.html)
+* [Exploit Exercises] ( https://exploit-exercises.com/)
+* [Honeynet Challenges] (https://www.honeynet.org/challenges)
 * [CTFtime] (https://ctftime.org/ctfs)
+* [Praetorian Challenges](https://www.praetorian.com/challenges/)
+* [Security Innovation Challenges] (http://canyouhack.us/)
+* [canyouhack.it] (http://canyouhack.it/)
 
 ## Wargames
-* [Hack This Site] (https://www.hackthissite.org/)
-* [Over The Wire] (http://overthewire.org/wargames/)
+* [HackThisSite] (https://www.hackthissite.org/)
+* [OverTheWire] (http://overthewire.org/wargames/)
 * [Smash the Stack] (http://smashthestack.org/)
 
-## PICO CTFS
+## PICOCTFs
 * [2014] (https://picoctf.com)
 * [2013] (https://2013.picoctf.com)
 
@@ -31,8 +34,8 @@ As I work through these challenges I will post solutions / answers on my [blog] 
 ## Programming
 * [Python Challenge] (http://www.pythonchallenge.com/)
 * [Project Euler] (https://projecteuler.net/)
-* [Coder Byte] (https://coderbyte.com/)
-* [Code Eval] (https://www.codeeval.com/)
+* [Coderbyte] (https://coderbyte.com/)
+* [CodeEval] (https://www.codeeval.com/)
 * [CodingGame] (https://www.codingame.com/games/puzzles)
 * [Codewars] (http://www.codewars.com/)
 
@@ -43,3 +46,4 @@ As I work through these challenges I will post solutions / answers on my [blog] 
 
 ## Vulnerable VMs
 * [VulnHub] (https://www.vulnhub.com/)
+* [PentesterLab] (https://pentesterlab.com/exercises/)
