@@ -17,6 +17,7 @@ As I work through these challenges I will post solutions / answers on my [blog] 
 
 ## Wargames
 * [HackThisSite] (https://www.hackthissite.org/)
+* [EnigmaGroup] (http://www.enigmagroup.org/)
 * [OverTheWire] (http://overthewire.org/wargames/)
 * [Smash the Stack] (http://smashthestack.org/)
 
