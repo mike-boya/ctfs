@@ -8,6 +8,7 @@ As I work through these challenges I will post solutions / answers on my [blog] 
 
 ## Miscellaneous
 * [Counter Hack Challenges] (http://www.counterhack.net/Counter_Hack/Challenges.html)
+* [Pivot Project] (http://pivotproject.org/)
 * [Exploit Exercises] ( https://exploit-exercises.com/)
 * [Honeynet Challenges] (https://www.honeynet.org/challenges)
 * [CTFtime] (https://ctftime.org/ctfs)
