@@ -17,6 +17,7 @@ As I work through these challenges I will post solutions / answers on my [blog] 
 * [canyouhack.it] (http://canyouhack.it/)
 * [Root Me] (http://www.root-me.org/en/Capture-The-Flag/)
 * [CTF - InfoSec Institute] (http://ctf.infosecinstitute.com/)
+* [Flare](http://www.flare-on.com/)
 
 ## Wargames
 * [HackThisSite] (https://www.hackthissite.org/)
