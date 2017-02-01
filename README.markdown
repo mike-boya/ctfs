@@ -30,7 +30,8 @@ As I work through these challenges I will post solutions / answers on my [blog] 
 * [2013] (https://2013.picoctf.com)
 
 ## SANS Holiday Challenges
-* [2015] (https://holidayhackchallenge.com/)
+* [2016] (https://holidayhackchallenge.com/2016/)
+* [2015] (https://holidayhackchallenge.com/2015/)
 * [2014] (http://pen-testing.sans.org/holiday-challenge/2014)
 * [2013] (http://pen-testing.sans.org/holiday-challenge/2013)
 * [2012] (http://pen-testing.sans.org/holiday-challenge/2012)
