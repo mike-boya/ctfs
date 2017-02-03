@@ -11,6 +11,7 @@ As I work through these challenges I will post solutions / answers on my [blog] 
 * [Pivot Project] (http://pivotproject.org/)
 * [Exploit Exercises] ( https://exploit-exercises.com/)
 * [Honeynet Challenges] (https://www.honeynet.org/challenges)
+* [Hacking-Lab] (https://www.hacking-lab.com/index.html)
 * [CTFtime] (https://ctftime.org/ctfs)
 * [Praetorian Challenges](https://www.praetorian.com/challenges/)
 * [Security Innovation Challenges] (http://canyouhack.us/)
