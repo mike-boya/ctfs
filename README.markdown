@@ -26,6 +26,9 @@ As I work through these challenges I will post solutions / answers on my [blog] 
 * [OverTheWire] (http://overthewire.org/wargames/)
 * [Smash the Stack] (http://smashthestack.org/)
 
+## Network Forensics
+* [ForensicsContest] (http://forensicscontest.com/puzzles)
+
 ## PICOCTFs
 * [2014] (https://picoctf.com)
 * [2013] (https://2013.picoctf.com)
